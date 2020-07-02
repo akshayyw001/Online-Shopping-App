@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322352120671",
+    "firebase_url": "https://royal-foods-dd292.firebaseio.com",
+    "project_id": "royal-foods-dd292",
+    "storage_bucket": "royal-foods-dd292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322352120671:android:86aed0e22b58f09eefacea",
+        "android_client_info": {
+          "package_name": "com.example.royalfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322352120671-i3tkakvvlmp327675psa4qik0uk6lob1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.royalfoods",
+            "certificate_hash": "5a269af1789dc35058c9a2cf843a9bd9e24ef005"
+          }
+        },
+        {
+          "client_id": "322352120671-vs7p391p6bcpkgdp3huaoe5pundsih37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmKcrZm60ECn9GYpaY6HZ0hJWEGtexYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322352120671-vs7p391p6bcpkgdp3huaoe5pundsih37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
